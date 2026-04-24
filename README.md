@@ -11,7 +11,7 @@
    <td>Logo de la Aplicacion</td>
    <td>Logo de empresa</td>
   <tr>
-    <td>  <img src="Logo_GuardianWater(1).jpg" width="80%" style="padding: 10px;" />  </td>
+    <td>  <img src="/Logo_GuardianWater(1).jpg" width="80%" style="padding: 10px;" />  </td>
     <td>   <img src="FrontEnd/Src/Assets/Imagenes/Logo_GuardianWater2.png" width="80%" style="padding: 10px;" /> </td>
    
   </tr>
